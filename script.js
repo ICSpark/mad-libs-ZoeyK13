@@ -53,7 +53,7 @@ function travel()
   document.getElementById("output").innerHTML = `
     <p>Your time machine malfunctions, and a ${histFig} steals your homework escaping to ${place}!
     Armed with a ${obj}, you chase them through time, dodging ${pluNoun} and a ${adj1} dinosaur trying to ${verb} you.
-    You finally catch the thief at the ${histPlace} and grab your homework just time.
+    You finally catch the thief at the ${histPlace} and grab your homework just in time.
     Back in class, your teacher, ${silName}, says, "That's the most ${adj2} excuse ever!" But hey, you got an A!</p>
     `;
 }
